@@ -2,3 +2,6 @@
 /VrClient/gradle
 /VrClient/gen
 /VrClient/.idea
+/build-MagServer-5_5_0_mingw32-Debug
+/TestGstreamer/*.user
+/VrDesktop/*.user

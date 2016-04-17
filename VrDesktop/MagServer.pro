@@ -33,7 +33,8 @@ FORMS    += \
 LIBS     += \
     -lvlc \
     -Ld:/dev/libs/vlc-3.0.0/sdk/lib \
-    -Ld:/dev/libs/vlc-3.0.0
+    -Ld:/dev/libs/vlc-3.0.0 \
+
 
 INCLUDEPATH += \
     d:/dev/libs/vlc-3.0.0/sdk/include
